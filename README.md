@@ -1,6 +1,6 @@
 # React-Native-Basic-Card-App
 
-In this project, a frontend of a card application was created. br
+In this project, a frontend of a card application was created. <br>
 I created this app with expo client and I am running it in a web browser.
 
 # Screenshots
